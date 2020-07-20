@@ -1,0 +1,14 @@
+/*Author: Naman Kumar(191500473)
+ *Date: 20/Jul/2020
+ */
+ 
+
+public class HelloWorld{
+	 
+     public static void main(String[] args) {
+		 
+          System.out.println("Hello World!");
+		 
+ }
+
+  }
